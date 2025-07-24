@@ -1,4 +1,4 @@
-import './assets/styles/App.css';
+import { Box } from "@mui/material";
 
 function App() {
 
